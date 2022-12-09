@@ -6,3 +6,4 @@ CSS finished and upload was up-to-date 08/11/22
 Javascript project updated 13-11-22
 random num fun.
 24/11/22 bootstrap uploaded
+9/12/22 jQuery 
